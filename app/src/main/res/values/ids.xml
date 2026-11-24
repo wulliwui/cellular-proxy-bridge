@@ -1,0 +1,9 @@
+<resources>
+    <item name="wifi_ssid" type="id" />
+    <item name="wifi_security" type="id" />
+    <item name="wifi_password" type="id" />
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="listen_port" type="id" />
+    <item name="target_ports" type="id" />
+</resources>
